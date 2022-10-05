@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+html body { 
+    font-family: 'Times New Roman', Times, serif; 
+    box-sizing: border-box;
+    overflow: a;
+ }
+  
+ table.banner { 
+    font-size: 90%; 
+	background: #000000; 
+	color: rgb(255, 255, 255);
+    text-align: center;
+	border-width: 0; 
+    width : 100%;
+ }
+ table.ugeplan {
+	width : 100%;
+}
+ tr {
+	vertical-align : top;
+}
+.card a{
+    color: #ffff01
+}
+.card-title{
+    font-size: 25px;
+    margin-top: 10%;
+}
+.text-center{
+    background-color: #231f1f;
+}
+.text-center a{
+    color: #cece1c;
+}
+   
+
